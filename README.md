@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-- 🎓 I'm a 3rd-year Computer Science student at Chandigarh University
+- 🎓 I'm a final-year Computer Science student at Chandigarh University
 - 💼 I'm working on: Building robust backend services and exploring decentralized technologies
 - 🌱 Learning: Concurrency in Go and distributed services in Go
 - 💬 Ask me about: Software Development, Backend Web Development, Blockchain
