@@ -35,6 +35,7 @@
   NAME       →  Saksham Mishra
   CLASS      →  Full Stack Software Developer
   FOCUS      →  Backend Development · Scalable Systems
+  STATUS     →  GSoC 2026 Contributor @FOSSology
   LOADING    →  [ Agentic AI  ▓▓▓▓▓▓▓░░░  70% ]
   TRAITS     →  Open Source Friendly · DSA Enthusiast · Debugger
 ```
